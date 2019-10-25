@@ -1,0 +1,12 @@
+ALGORITHME: Algo_Bonjour
+//BUT: Dire "Bonjour"
+//ENTREE: Saisir prénom
+//SORTIE: Sortir chaine de caractère "Bonjour"
+
+VAR: prenom : CHAINE
+
+DEBUT
+	ECRIRE "Saisir votre prénom"
+	LIRE prenom
+	ECRIRE "Bonjour", prenom
+FIN
